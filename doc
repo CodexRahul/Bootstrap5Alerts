@@ -1,0 +1,20 @@
+Bootstrap 5 Tutorial Components
+
+ALERTS
+
+1. Alert Colors Class Selectors.
+
+a. alert-primary
+b. alert-secondary
+c. alert-success
+d. alert-danger
+e. alert-warning
+f. alert-info
+g. alert-light
+h. alert-dark
+
+2. Alert Link
+
+3. Alert Dismissible
+
+3. Alert Fade
